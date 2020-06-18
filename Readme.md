@@ -1,4 +1,4 @@
-# Keras models for classification
+# Keras model for classification problem
 
 Keras based neural network classifier application for Banknote authentication dataset.  
 
